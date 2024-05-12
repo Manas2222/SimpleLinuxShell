@@ -1,7 +1,0 @@
-hello there, this is my file.
-hello there, this is my file.
-
-clear
-clear
-
-hello there, this is my file.

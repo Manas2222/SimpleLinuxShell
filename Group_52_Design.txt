@@ -3,8 +3,8 @@ Description
 
 
 Contributions :
-Manas Chhabra   2022276     Handling errors, debugging and testing code.
-Mann Nariya     2022278     Writing the functions required for the simpleShell.
+Manas Chhabra        Handling errors, debugging and testing code.
+Mann Nariya          Writing the functions required for the simpleShell.
 
 Project Description :
 The main function consists of a do-while loop which is responsible for taking input of the command form the user and calling the launch function. The launch function then calls seperate_user_input function returning a " " separated array of strings
@@ -17,6 +17,3 @@ Run the command "gcc simpleShell.c -o shell" and run "./shell" in the same direc
 Limitations :
 cd command is not supported by simpleShell because the child process cannot change the working directory of the parent process.
 alias command is not supported by simpleShell because exported aliases are available only in current shell environment(i.e. parent process) and are not available to the child processes.
-
-Github Repository Link :
-https://github.com/Mann-Nariya/Operating_systems_Assignment-2
