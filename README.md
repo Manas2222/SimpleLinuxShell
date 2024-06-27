@@ -6,3 +6,7 @@ The command input is taken to be less than 100 bytes and is assumed to have a ma
 
 ## How To Run :
 Run the command "gcc simpleShell.c -o shell" and run "./shell" in the same directory in wsl.
+
+
+#### Contributors : 
+#### Manas Chhabra, Mann Nariya
