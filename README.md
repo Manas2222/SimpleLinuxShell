@@ -1,4 +1,4 @@
-# Operating_systems_Assignment-2
+# Operating_systems
 ## Project Description :
 The main function consists of a do-while loop which is responsible for taking input of the command form the user and calling the launch function. The launch function then calls seperate_user_input function returning a " " separated array of strings
 terminated by NULL. This array of strings is passed to create_process_and_run function that creates a child process and executes the input command using execvp() function.
